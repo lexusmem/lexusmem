@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alex Sousa
+- 👀 I’m interested in learn a program
+- 🌱 I’m currently learning HTML(CSS, Bootstrap) and Python
+- 💞️ I’m looking to collaborate on anything :weary: because i'm learning
+- 📫 How to reach me alexsisousa@gmail.com
